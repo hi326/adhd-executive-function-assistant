@@ -1,0 +1,15 @@
+# Secrets
+.env
+# User data
+feedback.json
+user_profile.json
+# Python
+__pycache__/
+*.pyc
+# Mac files
+.DS_Store
+# Virtual environments
+venv/
+.venv/
+# IDE files
+.vscode/
